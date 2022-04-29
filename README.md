@@ -9,10 +9,10 @@ The instructions from the assignment are included below.
 # Introduction
 This assignment was written by Prof. Betty O’Neil (slightly adapted).
 It aims to help you:
-• Learn about Maps (Symbol Tables), and get experience with their JDK classes
-• Think about performance and memory use
-• A brief revision of Java
-• Introduction to Gradescope (and hopefully to using Java on Unix/Linux)
+- Learn about Maps (Symbol Tables), and get experience with their JDK classes
+- Think about performance and memory use
+- A brief revision of Java
+- Introduction to Gradescope (and hopefully to using Java on Unix/Linux)
 
 # Reading
 Read S&W Section 3.1 on symbol tables (maps), Section 3.5 on applications including text indexes. Read

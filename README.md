@@ -26,13 +26,7 @@ minutes the system appends to a log file the terminal numbers and user name of t
 on, one terminal number and username per line of text. (Not all terminals are in use at every moment.) A
 fragment of the log file looks like this:
 
-   9 ALTEREGO
-  12 ALIMONY
- 433 HOTTIPS
- 433 USERMGR
-  12 BLONDIE
- 433 HOTTIPS
- 354 ALIMONY
+![image](https://user-images.githubusercontent.com/91640554/166058827-93d17288-b2b2-42d4-9015-b144261912f9.png)
  
 This log file shows HOTTIPS was on terminal 433 twice but USERMGR was on that terminal at an intervening
 time. It also shows that ALIMONY was on terminal 12 at one time and terminal 354 later on. The log does
@@ -48,12 +42,7 @@ one line of output for each terminal showing the terminal number, the most commo
 (in the event of a tie, choose one user), and a count of how many times that user was on that terminal. Here
 is sample output:
 
-Terminal      Most Common     User Count
-1             OPERATOR        174983
-2             HANNIBAL        432
-3             <NONE>          0
-4             SYSMGR          945
-...           ...             ...
+![image](https://user-images.githubusercontent.com/91640554/166058867-3642023a-8c40-4b05-b8a7-056cfc92b8eb.png)
 
 # Implementation
 Create a class named Usage to hold a single username and its count together. It is quite simple. It

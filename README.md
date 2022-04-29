@@ -1,5 +1,5 @@
 # terminal-usage
-The goal of this algorithm is to read terminal usage data from a server at a hypothetical company and 
+The goal of this algorithm is to read terminal usage data from a server at a company and 
 return the most common user at each terminal as well as their number of uses. Through this project, I 
 learned how to implement Maps in Java and gain experience with their JDK classes. 
 
